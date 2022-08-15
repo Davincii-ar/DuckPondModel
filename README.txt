@@ -1,4 +1,5 @@
 ![](https://i.imgur.com/8lLLAcl.png)
+
 # The Game :
 
 -The life cycle of ducks in the game:
