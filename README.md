@@ -1,4 +1,5 @@
- DUCKPOND
+ DUCKPOND Game
+ 
  ![](https://i.imgur.com/8lLLAcl.png)
 
 # The Game :
