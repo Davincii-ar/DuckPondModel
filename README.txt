@@ -1,3 +1,6 @@
+![](https://i.imgur.com/8lLLAcl.png)
+# The Game :
+
 -The life cycle of ducks in the game:
  gray -> gray2 -> orange -> orange2 -> white(chief Duck)
 
