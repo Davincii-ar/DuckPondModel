@@ -5,7 +5,7 @@
 # The Game :
 
  -The life cycle of ducks in the game:
-  gray -> gray2 -> orange -> orange2 -> white(chief Duck)
+  gray -> gray2 -> orange -> orange2 -> white(chief Duck).
 
  -The ducks can leave the pond.
 
